@@ -4,7 +4,7 @@ Enginhear is an Indie game studio. We aims to engineer games that hear the audie
 
 Studio's cover image (just a placeholder for now)
 
-![]{asset/cover.JPG}
+![](asset/cover.JPG)
 
 This is the repo for storing proposals and idea flash points from the enginhears..
 
