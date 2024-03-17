@@ -1,3 +1,17 @@
 # Repository for Enginhear's Proposals
 
-Enginhear is an Indie game studio. We wish we are engineering games that are able to hear you.
+Enginhear is an Indie game studio. We wish we are engineering games that are able to hear you
+
+This is the repo for storing proposals and idea flash points from the enginhears.
+
+## Proposed Projects
+
+### Codename: Reveloper
+
+	An action roguelike rhythm Game. Each weapon and item resembles an emotion or willpower. In the meantime, we play music as the direct present of willes, guided by philosophy from Nietzche.
+
+Read Prposal document by Dr. SEE at [www.github.com/Roventta/EnginhearProposals/Reveloper](Reveloper/propdoco.pdf)
+
+### Codename: Solitude
+
+	An Interactive Visual novel with unpredicable triggers of story events. Life simulation, space sci-fi, Story rich, Selection matter, Absurdism. 
