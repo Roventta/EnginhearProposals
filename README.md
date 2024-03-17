@@ -1,8 +1,12 @@
 # Repository for Enginhear's Proposals
 
-Enginhear is an Indie game studio. We wish we are engineering games that are able to hear you
+Enginhear is an Indie game studio. We aims to engineer games that hear the audience.
 
-This is the repo for storing proposals and idea flash points from the enginhears.
+Studio's cover image (just a placeholder for now)
+
+![]{asset/cover.JPG}
+
+This is the repo for storing proposals and idea flash points from the enginhears..
 
 ## Proposed Projects
 
